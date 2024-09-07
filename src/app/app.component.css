@@ -1,0 +1,10 @@
+.enableForm {
+  display: block;
+}
+
+.disbleForm {
+  display: none;
+}
+.favourite {
+  font-size: 16px;
+}
